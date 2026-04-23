@@ -1,0 +1,2 @@
+N,bits_N,status,factors_str,residual,trials_tested,divisions,duration_ns,duration_ms,duration_s,source_file,started_utc,finished_utc
+11298868314832329571,64,FOUND_ALL,3266589829 * 3458918599,3458918599,1088863276,1,258727687500,258727.6875,258.7276875,n_values_064bit.txt,2026-02-10 00:59:17,2026-02-10 01:03:36
